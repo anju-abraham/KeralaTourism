@@ -1,0 +1,97 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+#logo{
+   width: 70px;
+   height: 70px;
+}
+h1{
+   text-align: center;
+   color: blueviolet;
+}
+body{
+   /* background-size:contain;
+   background-color: rgb(138, 203, 138); */
+   
+   /* background: yellow; */
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+   /* background-image: url('/images/background.jpg'); */
+ }
+ .row
+ {
+   background-color: white
+}
+
+
+ .effect-1
+{
+   border:0;
+   outline:none;
+   width:100%;
+   padding:7px 0;
+   border-bottom: 1px solid #ccc ;
+} 
+
+/* .effect-1~.focus-border{
+   position: absolute;
+   bottom: 0;
+ left: 50%;
+ width:0;
+ height:2px ;
+ background-color: red;
+ transition: 0.4s;
+}
+
+.effect-1:focus~.focus-border{
+   width:100%;
+   transition: 0.4s;
+   left:0;
+}  */
+
+.head-contact{
+   background-color: green;
+}
+.btnContact{
+/* background: red; */
+text-align: right;
+}
+#imgContact{
+   border-top-left-radius: 30px;
+   border-bottom-left-radius: 30px;
+}
+.btnLogin
+{
+   border:none;
+   height:50px;
+   width: 100%;
+   background-color: rgb(55, 196, 227);
+   color: white;
+   border-radius: 4px;
+   font-weight: bold;
+
+}
+.login-card{
+   border: 0px;
+   border-radius: 10px;
+   background-color: blue;
+   width:auto;
+   height:auto;
+   padding:75px ;
+
+}
+
+/* cards in district page */
+.card{
+width:250x;
+height: 500px;
+
+}
+
+.card-img-top{
+   width:50px;
+   height: 100px;
+}

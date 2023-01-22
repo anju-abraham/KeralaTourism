@@ -76,12 +76,14 @@ text-align: right;
    font-weight: bold;
 
 }
+/* signup */
 .login-card{
    border: 0px;
    border-radius: 10px;
-   background-color: blue;
-   width:auto;
-   height:auto;
+   
+   width: 100%;
+   height:100%;
+  
    padding:75px ;
 
 }
@@ -121,3 +123,19 @@ height: 500px;
    padding: 60px 0;
   text-align: center;
   }
+
+  /* district heading in each 5 district page
+ .district{
+   color: white;
+   background: green;
+   height: 150px;
+   text-align: center;
+  } */
+
+  h4{
+   padding-left: 30px;
+  }
+  /* index */
+  /* .navbar{
+   color: white;
+  } */

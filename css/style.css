@@ -3,10 +3,10 @@
    margin: 0;
    box-sizing: border-box;
 }
-
+/* index.html */
 #logo{
-   width: 70px;
-   height: 70px;
+   width: 25px;
+   height: 25px;
 }
 h1{
    text-align: center;
@@ -22,7 +22,7 @@ body{
    /* background-image: url('/images/background.jpg'); */
  }
 
- 
+
  .row
  {
    background-color: white
@@ -93,10 +93,10 @@ height: 500px;
 
 }
 
-.card-img-top{
+/* .card-img-top{
    width:50px;
    height: 100px;
-}
+} */
 
 
 /* index -----*/
@@ -104,8 +104,20 @@ height: 500px;
 
 .carousel-inner > .carousel-item > img {
    /* height: 300px; */
-   width:640px;
-  height:360px;
+  
+   width:229px;
+  height:220px;
   align-items: center;
    
  }
+
+
+ /* districts tag in indexpg */
+
+
+
+ #cards-indexpg{
+   background:white;
+   padding: 60px 0;
+  text-align: center;
+  }

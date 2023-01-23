@@ -17,7 +17,6 @@ body{
    /* background-image: url('/images/background.jpg'); */
  }
 
-
  .row
  {
    background-color:white;
@@ -27,8 +26,7 @@ body{
    background-color: green;
 }
 .btnContact{
-/* background: red; */
-text-align: right;
+   text-align: right;
 }
 #imgContact{
    border-top-left-radius: 30px;
@@ -52,17 +50,14 @@ text-align: right;
    
    width: 100%;
    height:100%;
-  
    padding:75px ;
 
 }
 
 /* cards in district page */
 .card{
-width:250x;
-height: 500px;
-/* text-align: center; */
-
+   width:250x;
+   height: 500px;
 }
 
 /* .card-img-top{
@@ -70,45 +65,24 @@ height: 500px;
    height: 100px;
 } */
 
-
 /* index -----*/
-
-
 .carousel-inner > .carousel-item > img {
-   /* height: 300px; */
-  
    width:229px;
   height:220px;
   align-items: center;
    
  }
 
-
  /* districts tag in indexpg */
-
-
-
  #cards-indexpg{
    background:white;
-   padding: 60px 0;
+   padding: 60px ;
   text-align: center;
   }
 
-  /* district heading in each 5 district page
- .district{
-   color: white;
-   background: green;
-   height: 150px;
-   text-align: center;
-  } */
-
-  h4{
+   h4{
    padding-left: 30px;
   }
-  /* index */
-  /* .navbar{
-   color: white;
-  } */
 
   /* container for district cards */
   .cont-Idk{

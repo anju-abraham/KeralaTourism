@@ -13,46 +13,15 @@ h1{
    color: blueviolet;
 }
 body{
-   /* background-size:contain;
-   background-color: rgb(138, 203, 138); */
-   
-   /* background: yellow; */
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
    /* background-image: url('/images/background.jpg'); */
  }
 
 
  .row
  {
-   background-color: white
+   background-color:whitesmoke;
 }
-
-
- .effect-1
-{
-   border:0;
-   outline:none;
-   width:100%;
-   padding:7px 0;
-   border-bottom: 1px solid #ccc ;
-} 
-
-/* .effect-1~.focus-border{
-   position: absolute;
-   bottom: 0;
- left: 50%;
- width:0;
- height:2px ;
- background-color: red;
- transition: 0.4s;
-}
-
-.effect-1:focus~.focus-border{
-   width:100%;
-   transition: 0.4s;
-   left:0;
-}  */
 
 .head-contact{
    background-color: green;
@@ -92,6 +61,7 @@ text-align: right;
 .card{
 width:250x;
 height: 500px;
+/* text-align: center; */
 
 }
 
@@ -139,3 +109,11 @@ height: 500px;
   /* .navbar{
    color: white;
   } */
+
+  /* container for district cards */
+  .cont-Idk{
+   text-align: center;
+  }
+ .cont-Dist{
+   text-align: center;
+  }
